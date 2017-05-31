@@ -1,6 +1,6 @@
 Package.describe({
   name: 'c0r3y8:octopus-logger',
-  version: '0.1.3',
+  version: '0.2.1',
   // Brief, one-line summary of the package.
   summary: 'Logger based on winston for Octopus',
   // URL to the Git repository containing the source code for this package.
